@@ -1,0 +1,9 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Munchkin" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/primary_500</item>
+        <item name="android:fontFamily">@font/patrick_hand</item>
+    </style>
+
+    <style name="Theme.Munchkin" parent="Base.Theme.Munchkin" />
+</resources>
